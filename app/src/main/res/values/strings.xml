@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">formativa_2</string>
+
+    <string name="txt_name">NOMBRE</string>
+    <string name="txt_documento">IDENTIFICACION</string>
+    <string name="txt_apto">APARTAMENTO</string>
+    <string name="txt_tipo">TIPO DE VISITA</string>
+    <string name="txt_fecha">FECHA</string>
+    <string name="btn_guardar">GUARDAR</string>
+    <string name="btn_lista">LISTAR</string>
+    <string name="btn_modificar">MODIFICAR</string>
+</resources>
